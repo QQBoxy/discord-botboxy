@@ -1,5 +1,7 @@
 # Discord BotBoxy
 
+![](https://i.imgur.com/FHZqVB9.jpg)
+
 ## Setup
 
 ```
